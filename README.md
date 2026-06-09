@@ -12,7 +12,7 @@ Yeh script **ZeroDayMotion** channel ke liye design ki gayi hai. Iska main maqsa
 
 1. **Terminal kholein** aur is repository ko clone karein (ya file download karein):
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/ZeroDayMotion-Setup-Script.git](https://github.com/YOUR_USERNAME/ZeroDayMotion-Setup-Script.git)
+   git clone [(https://github.com/Yashbhardwaj0101/ZeroDayMotion-Setup-Script.git)]
    cd ZeroDayMotion-Setup-Script
 2. Script ko Permissions dein:
 
